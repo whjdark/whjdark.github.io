@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hongjin Wu (吴泓晋)"
 title_separator          : "-"
-name                     : &name "Hongjin Wu (吴泓晋)"
+name                     : &name "Hongjin Wu"
 description              : &description "personal description"
 url                      : https://github.com/whjdark # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

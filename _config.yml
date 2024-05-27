@@ -21,12 +21,12 @@ repository               : "whjdark/whjdark.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "44253501.jpg"
   name             : "Hongjin Wu"
   pronouns         : # example: "she/her"  
   bio              : "Building ... "
   location         : "Wuhan, China"
-  employer         : "M.S. student @ Huazhong University of Science & Technology"
+  employer         : "M.S. student @ HUST"
   uri              : # URL
   email            : "wuhongjin@hust.edu.cn" 
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : "whjdark"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
